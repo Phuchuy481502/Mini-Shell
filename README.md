@@ -17,4 +17,5 @@ gcc -Wall -o myshell shell.c
 ```
 
 Requires GCC on Linux/macOS or WSL on Windows.
+## Demo
 ![Screenshot](Screenshot%202026-03-09%20113020.png)
